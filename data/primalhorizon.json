@@ -1,0 +1,18 @@
+{
+    "id": 134310289,
+    "name": "Primal Horizon",
+    "author": "Myth",
+    "creators": ["Cylerian", "Mindcap", "Zoink"],
+    "verifier": "Xyn",
+    "verification": "https://www.google.com",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Myth",
+            "link": "https://www.google.com/",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
