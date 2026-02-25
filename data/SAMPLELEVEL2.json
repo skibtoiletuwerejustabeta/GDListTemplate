@@ -1,12 +1,18 @@
 {
     "id": 125552140,
     "name": "HEMMORAGE",
-    "author": "CYLERIAN",
-    "creators": [],
-    "verifier": "XYN",
-    "verification": "https://www.google.com/",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "author": "Cylerian",
+    "creators": ["Cylerian", "Mindcap", "Zoink"],
+    "verifier": "Xyn",
+    "verification": "https://www.google.com",
+    "percentToQualify": 56,
+    "password": "Copyable",
     "records": [
+        {
+            "user": "Myth",
+            "link": "https://www.google.com/",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
