@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ForeverBloxian",
+        "link": "https://www.youtube.com/@ForeverBloxian_"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MindCap",
+        "link": "https://www.youtube.com/@MindCap."
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Zoink",
+        "link": "https://www.youtube.com/@Zoink"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Doggie",
+        "link": "https://www.youtube.com/@DoggieDasher"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "CaseOH",
+        "link": "https://www.youtube.com/@caseoh_"
     }
 ]
